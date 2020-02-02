@@ -1,0 +1,3 @@
+Database Name: ProjectDBContext
+Connection String: "Server=(localdb)\\mssqllocaldb;Database=ProjectDBContext-6a3b1943-14dd-4f8f-a230-bda670052489;Trusted_Connection=True;MultipleActiveResultSets=true",
+Conrollers: BooksController, CustomersController, ReviewsController

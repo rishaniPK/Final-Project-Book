@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace Project.Controllers
 {
-    [Authorize] // If your are not a registred user you are not authorized to this page.
     public class BooksController : Controller
     {
         private readonly ProjectDBContext _context;
